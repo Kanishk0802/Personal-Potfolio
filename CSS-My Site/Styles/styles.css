@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  background-color: #000111;
+}
+
+.top-container {
+  height: 100vh;
+}
+
+.top-container .intro-box {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: inherit;
+  flex-wrap: wrap;
+}
+
+.top-container .intro-box .my-img {
+  padding: 20px;
+}
+
+.top-container .intro-box .intro {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  color: lavender;
+}
+/*# sourceMappingURL=styles.css.map */
